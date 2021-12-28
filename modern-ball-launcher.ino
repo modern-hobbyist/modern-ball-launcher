@@ -10,7 +10,7 @@
 
 #include <Servo.h>
 #define MAX_VALUE 180
-#define MIN_VALUE 90
+#define MIN_VALUE 90 
 #define MIN_PULSE_LENGTH 90 // Minimum pulse length in µs
 #define MAX_PULSE_LENGTH 180 // Maximum pulse length in µs
 #define POT_PIN A2
